@@ -1,6 +1,3 @@
 [submodule "ATM Project"]
 	path = ATM Project
 	url = https://github.com/MohamedRaghebOmer/ATM-Project.git
-[submodule "Bank Project"]
-	path = Bank Project
-	url = https://github.com/MohamedRaghebOmer/Bank-Project.git
